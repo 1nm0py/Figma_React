@@ -1,0 +1,61 @@
+.Seaction_001{
+    margin-top: 50px;
+}
+.section__wrapper {
+    padding-top: 94px;
+    margin-bottom: 100px;
+}
+
+.section__flex__elems {
+    display: flex;
+    justify-content: space-between;
+}
+
+.section__left__box {
+    width: 450px;
+    padding-top: 50px;
+}
+
+.section__text {
+    color: #000;
+    font-family: serif;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.section__paragrof {
+    color: #000;
+    padding-top: 30px;
+    font-family: serif;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+}
+
+.section__btn {
+    color: #ed4c5c;
+    text-align: justify;
+    font-family: serif;
+    background: transparent;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    border: none;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+}
+
+.section__position {
+    position: relative;
+}
+
+.section__play__position {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: -30px;
+}
