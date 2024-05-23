@@ -1,0 +1,52 @@
+.notebook {
+    display: flex;
+    justify-content: space-between;
+}
+
+.notebook__opsh {
+    margin-top: 200px;
+}
+
+.notebook__big__text {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 80px;
+}
+
+.notebook__play {
+    width: 255px;
+    height: 226px;
+    text-align: center;
+    position: relative;
+    margin-bottom: 100px;
+}
+
+.notebook__img {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 88px;
+}
+
+.notebook__img__1 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 91px;
+}
+
+.notebook__img__2 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 91px;
+}
+
+.notebook__img__3 {
+    position: absolute;
+    transform: translateY(-53%);
+    left: 101px;
+}
+
+
+.notebook__text {
+    padding-top: 40px;
+    padding-bottom: 25px;
+}
