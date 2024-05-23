@@ -1,0 +1,36 @@
+.emmet__gap {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.emmet__text {
+    padding-bottom: 50px;
+}
+.emmer__form__gap{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.emmer__play {
+    width: 200px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.emmer__buutton__play {
+    width: 500px;
+    height: 40px;
+    border-radius: 6px;
+}
+
+.emmer__buutton {
+    width: 160px;
+    height: 40px;
+    border-radius: 6px;
+    background: #ED4C5C;
+    color: #FFF;
+    border: none;
+}
