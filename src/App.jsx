@@ -4,6 +4,7 @@ import Main from "./components/main/main.jsx";
 import Menu from "./components/menu/menu.jsx";
 import Redline from "./components/RedLine/RedLine.jsx"
 import Input from "./components/inputPart/input.jsx"
+import Finish from "./components/finish/finish.jsx"
 
 
 export default function App() {
@@ -27,6 +28,7 @@ export default function App() {
       </div>
       <div className="section">
         <Input />
+        <Finish />
       </div>
     </>
   )

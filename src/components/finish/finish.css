@@ -1,0 +1,25 @@
+.cloudy {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+}
+
+.cloudy__text {
+    padding-bottom: 50px;
+}
+
+.cloudy__text__smoll {
+    padding-bottom: 130px;
+}
+
+.cloudy__text__text {
+    color: #9EABA2;
+}
+
+.cloudy__text__text__t {
+    padding-top: 40px;
+}
+
+.cloudy__text__smoll__play {
+    padding-bottom: 30px;
+}
